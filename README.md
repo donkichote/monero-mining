@@ -1,0 +1,2 @@
+# monero-mining
+learn mining
